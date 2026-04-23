@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Elementary](elementary.io)
 
-- 💬 Ask me about **DevOps, Software Gardening, Cloud, Chess, MTB and F1**
+- 💬 Ask me about **DevOps, Software Gardening, AI, Chess, MTB and F1**
 
 - 📫 How to reach me **luis@kief.mx**
 
